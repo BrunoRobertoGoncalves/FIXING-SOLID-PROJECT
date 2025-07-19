@@ -1,0 +1,6 @@
+@SOLID_FIX_HostAddress = http://localhost:5225
+
+GET {{SOLID_FIX_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
