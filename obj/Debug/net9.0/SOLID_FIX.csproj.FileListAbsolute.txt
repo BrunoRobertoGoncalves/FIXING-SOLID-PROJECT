@@ -1,0 +1,7 @@
+C:\Users\betao\source\repos\SOLID\SOLID_FIX\obj\Debug\net9.0\SOLID_FIX.csproj.AssemblyReference.cache
+C:\Users\betao\source\repos\SOLID\SOLID_FIX\obj\Debug\net9.0\SOLID_FIX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betao\source\repos\SOLID\SOLID_FIX\obj\Debug\net9.0\SOLID_FIX.AssemblyInfoInputs.cache
+C:\Users\betao\source\repos\SOLID\SOLID_FIX\obj\Debug\net9.0\SOLID_FIX.AssemblyInfo.cs
+C:\Users\betao\source\repos\SOLID\SOLID_FIX\obj\Debug\net9.0\SOLID_FIX.csproj.CoreCompileInputs.cache
+C:\Users\betao\source\repos\SOLID\SOLID_FIX\obj\Debug\net9.0\SOLID_FIX.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\betao\source\repos\SOLID\SOLID_FIX\obj\Debug\net9.0\SOLID_FIX.MvcApplicationPartsAssemblyInfo.cache

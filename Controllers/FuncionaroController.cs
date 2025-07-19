@@ -9,7 +9,6 @@ namespace WebApiQuebrada.Controllers
     public class FuncionarioController : ControllerBase
     {
         private FuncionarioService _service = new FuncionarioService();
-
         [HttpPost]
         public IActionResult Criar(Funcionario funcionario)
         {

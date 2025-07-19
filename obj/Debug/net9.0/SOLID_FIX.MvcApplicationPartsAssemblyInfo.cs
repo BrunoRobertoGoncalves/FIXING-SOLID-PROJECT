@@ -11,13 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SOLID_FIX")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9a18c3f940af950906cc2492dc19fdc72bd909f")]
-[assembly: System.Reflection.AssemblyProductAttribute("SOLID_FIX")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SOLID_FIX")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: Microsoft.AspNetCore.Mvc.ApplicationParts.ApplicationPartAttribute("Microsoft.AspNetCore.OpenApi")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 
